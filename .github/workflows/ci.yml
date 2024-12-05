@@ -27,4 +27,5 @@ jobs:
       - name: Run tests
         run: npm test
 
-      - name: Hello from Hexlet uses: hexlet-components/hello-from-hexlet-action@release
+      - name: Hello from Hexlet
+        uses: hexlet-components/hello-from-hexlet-action@release
